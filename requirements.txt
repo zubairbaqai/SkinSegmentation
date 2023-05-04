@@ -1,0 +1,15 @@
+typing-extensions
+pyyaml
+flask
+albumentations
+opencv-python
+pretrainedmodels
+efficientnet_pytorch
+timm
+wand
+pillow-avif-plugin
+torch-tensorrt
+filemime
+seaborn
+ultralytics
+python-magic
